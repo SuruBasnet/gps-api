@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ok6*+(v-wf393m1as@(6$)n=lmbtp#)pm2z#c!958vq12v6_gd
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['gps-api-hpl4.onrender.com','surubasnyat.pythonanywhere.com','127.0.0.1']
+ALLOWED_HOSTS = ['3.107.32.255','127.0.0.1']
 
 
 # Application definition
